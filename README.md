@@ -7,3 +7,21 @@
 
 
 * I plan on keeping this updated as much as I'm able to remember to with relevant projects and code snippets I'm particularly proud of, and by all means feel free to browse my repos or message me directly if you have any questions. Thanks for your time! 
+
+# Project Showcase
+
+A showcase of basic animations in Xcode using `Core Graphics`
+
+! [Demo Gif](https://giphy.com/gifs/fwhsl0LVxGonkzmj7X)
+
+A showcase of a color picker using `UIControl` and `NSAutoLayout`
+
+![Demo Gif](https://giphy.com/gifs/UtDQcNpbaOU1M8whZ3)
+
+iTunes Search built using the `iTunes Search API` and `UITableView`
+
+![Demo Gif](https://giphy.com/gifs/jp1oBE6Ec2zknA3msq)
+
+Project to search the `PokemonAPI`  and save results to a `UITableView` and add `Local Persistence` 
+
+![Demo Gif](https://giphy.com/gifs/iDmnuGfxDlDn3rEVqT)
