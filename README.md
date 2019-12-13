@@ -12,16 +12,16 @@
 
 A showcase of basic animations in Xcode using `Core Graphics`
 
-! [Demo Gif] (https://media.giphy.com/media/fwhsl0LVxGonkzmj7X/source.gif)
+![Demo Gif](https://media.giphy.com/media/fwhsl0LVxGonkzmj7X/source.gif)
 
 A showcase of a color picker using `UIControl` and `NSAutoLayout`
 
-! [Demo Gif] (https://media.giphy.com/media/UtDQcNpbaOU1M8whZ3/source.gif)
+![Demo Gif](https://media.giphy.com/media/UtDQcNpbaOU1M8whZ3/source.gif)
 
 iTunes Search built using the `iTunes Search API` and `UITableView`
 
-! [Demo Gif] (https://media.giphy.com/media/jp1oBE6Ec2zknA3msq/source.gif)
+![Demo Gif](https://media.giphy.com/media/jp1oBE6Ec2zknA3msq/source.gif)
 
 Project to search the `PokemonAPI`  and save results to a `UITableView` and add `Local Persistence` 
 
-! [Demo Gif] (https://media.giphy.com/media/iDmnuGfxDlDn3rEVqT/source.gif)
+![Demo Gif](https://media.giphy.com/media/iDmnuGfxDlDn3rEVqT/source.gif)
