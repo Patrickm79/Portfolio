@@ -12,7 +12,7 @@
 
 A showcase of basic animations in Xcode using `Core Graphics`
 
-! [Demo Gif](https://giphy.com/gifs/fwhsl0LVxGonkzmj7X)
+![Demo Gif] (https://giphy.com/gifs/fwhsl0LVxGonkzmj7X)
 
 A showcase of a color picker using `UIControl` and `NSAutoLayout`
 
